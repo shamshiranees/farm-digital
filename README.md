@@ -1,4 +1,4 @@
-# Getting Started with Live Football
+# Getting Started
 
 [Live-Demo: https://main.dy4hmnf4ew2hc.amplifyapp.com/](https://main.dy4hmnf4ew2hc.amplifyapp.com/)
 
