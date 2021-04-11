@@ -16,7 +16,7 @@ const SignUp = () => {
        //  const user = await Auth.signIn("shamshir@greyskymedia.com", "12345678");
 
        dispatch(setUserData(user.attributes))
-       history.push(`/home`);
+       history.push(`/`);
         console.log("userrrr",user.attributes);
         
     } catch (error) {
