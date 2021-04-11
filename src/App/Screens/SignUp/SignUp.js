@@ -40,7 +40,7 @@ const SignUp = () => {
 
     try {
       await Auth.confirmSignUp(username, code);
-      history.push(`/home`);
+      history.push(`/`);
     } catch (error) {
       console.log("error confirming sign up", error);
     }
